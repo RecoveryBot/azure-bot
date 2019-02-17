@@ -1,0 +1,26 @@
+{
+    "name": "LuisBot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "development",
+            "endpoint": "https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/86286768-afd0-43b7-a4a5-c37e44ef89a4?spellCheck=true&bing-spell-check-subscription-key=%7Bc1f997501b2c43e2a33b7c73df763359%7D&verbose=true&timezoneOffset=-360&subscription-key=f8f52ba3fdf04a7ba2602225428e8674&q=",
+            "appId": "",
+            "appPassword": "",
+            "id": "166"
+        },
+        {
+            "type": "luis",
+            "name": "LouisBot",
+            "appId": "86286768-afd0-43b7-a4a5-c37e44ef89a4",
+            "version": "0.1",
+            "authoringKey": "f8f52ba3fdf04a7ba2602225428e8674",
+            "subscriptionKey": "f8f52ba3fdf04a7ba2602225428e8674",
+            "region": "westus",
+            "id": "158"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0"
+}

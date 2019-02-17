@@ -1,0 +1,55 @@
+{
+    "name": "TreeHacks2019",
+    "description": "",
+    "services": [
+        {
+            "type": "abs",
+            "appId": "268deeb1-5f69-47e3-924d-1361c007f31d",
+            "id": "1",
+            "name": "TreeHacks2019",
+            "resourceGroup": "myResourceGroup",
+            "serviceName": "TreeHacks2019",
+            "subscriptionId": "c4882345-18d5-4925-93f1-70ae13ed22ff",
+            "tenantId": "49e81784-8271-4cd9-ba22-a43a0911551b"
+        },
+        {
+            "type": "blob",
+            "connectionString": "t+4mtoZMgFQd8nlH1+xpMA==!+rFrxMcifXxLrST6SZlITP8Qhypb51199MdB32A3DpRyG/xBrZA8SQzYnkbnaL96EH8ASfz1d91tnXxfk6Ztd+novnu5ympvRuW0ry/pZm7GvHbgAu5G0B98pyXQ6aeNRn8H7rtZxVBJAAn9OpujlMa6Pu04TfyqujACDuH4LrEbpAke86QVOoRI+o7Csyr6/Or70mxjX5pcoolcltmuVo/hHrDgMnNxnVOXpupxnPQ=",
+            "id": "2",
+            "resourceGroup": "myResourceGroup",
+            "serviceName": "treehacks20199972",
+            "subscriptionId": "c4882345-18d5-4925-93f1-70ae13ed22ff",
+            "tenantId": "49e81784-8271-4cd9-ba22-a43a0911551b"
+        },
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "3",
+            "name": "development"
+        },
+        {
+            "type": "endpoint",
+            "appId": "268deeb1-5f69-47e3-924d-1361c007f31d",
+            "appPassword": "LYfasIc/GD6/tsKd/q7Zpw==!hIMC8kcRHauER8iYLjN6bnRDOidtmkI+JRk50Y9YBRU=",
+            "endpoint": "https://treehacks2019.azurewebsites.net/api/messages",
+            "id": "4",
+            "name": "production"
+        },
+        {
+            "type": "luis",
+            "appId": "86286768-afd0-43b7-a4a5-c37e44ef89a4",
+            "authoringKey": "Y6rF4JORbOnRwaqbddl5NA==!dEg3FaSJn1tx2+QMvxcJvN9edvqXD/zMDZ0kIAU2Lhpa2kG8kNbOCSsJzCyHo1gz",
+            "id": "86286768-afd0-43b7-a4a5-c37e44ef89a4",
+            "name": "reminders",
+            "region": "westus",
+            "subscriptionKey": "AW4bXJkpcE3xNCjWTHxMdQ==!+p7EZ2LbhOfwwS5WqIfkkOH4uRhnnfQ7nkCmwZhj42eC3JLN0RKApczqteT92Ioj",
+            "version": "0.1"
+        }
+    ],
+    "padlock": "ak71u56A1AF5ET6LIdwQ6w==!pPmZk2Jh7hkbtbaVJDYDR0qmlded6bOPiKmk3McSQw3j03670eEoKwLoB+F8j0oI",
+    "version": "2.0",
+    "overrides": null,
+    "path": "/Users/angelchen/Downloads/TreeHacks2019-src/TreeHacks2019.bot"
+}
